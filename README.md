@@ -1,4 +1,5 @@
-# Smart Inventory Management Mobile Application
+# STOCKWISE
+Smart Inventory Management Mobile Application
 
 A full-stack, enterprise-grade mobile inventory management system designed for warehouse operations, retail storehouses, and institutional laboratories. The solution features an Expo React Native mobile client, a Spring Boot 3.3.4 REST API service running on Java 21 LTS, and a MySQL 8.4 transactional database with pessimistic concurrency control and an immutable audit ledger.
 
